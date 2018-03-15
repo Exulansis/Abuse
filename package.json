@@ -1,6 +1,6 @@
 {
   "name": "Abuse",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple stress testing tool",
   "main": "./build/index.js",
   "repository": "git@github.com:Exulansis/Abuse.git",
